@@ -1,4 +1,5 @@
 https://colab.research.google.com/drive/1piRkbnFXHUaKIWn8Y6xM3_t55f8XIhQO?usp=sharing
+
 # Chatbot RAG Gemma-2B-IT
 
 A Retrieval-Augmented Generation (RAG) chatbot built using Gemma-2B-IT and Google Colab.  
@@ -39,3 +40,6 @@ Chatbot-RAG_Gemma2B_IT_1.0_Colab/
 ├── screenshots/        # Demo images
 ├── README.md
 └── requirements.txt
+## Installation
+pip install -r requirements.txt
+```
