@@ -1,0 +1,17 @@
+torch
+transformers
+accelerate
+bitsandbytes
+langchain
+sentence-transformers
+faiss-cpu
+huggingface_hub
+numpy
+pandas
+scikit-learn
+nltk
+matplotlib
+ipywidgets
+flask
+pypdf
+unstructured
